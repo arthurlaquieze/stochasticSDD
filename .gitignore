@@ -1,3 +1,6 @@
 src/site
 slides
 notebooks/.ipynb_checkpoints
+
+# macOS garbage 
+.DS_Store
