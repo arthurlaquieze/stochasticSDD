@@ -8,3 +8,6 @@ notebooks/.ipynb_checkpoints
 # optimization checkpoints
 *.pymoo
 *.scores
+project/data
+*.zip
+market day Osty.*
